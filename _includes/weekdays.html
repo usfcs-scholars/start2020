@@ -1,0 +1,26 @@
+<div class="buttons has-addons is-centered">
+  <a class="button" href="index.html"><i class="fas fa-home"></i></a>
+  <a class="button {% if page.subtitle == "Tuesday" %}is-info is-selected" href="schedule.html"{% else %}" href="tuesday.html"{% endif %}>Tuesday</a>
+  <a class="button {% if page.subtitle == "Wednesday" %}is-info is-selected" href="schedule.html"{% else %}" href="wednesday.html"{% endif %}>Wednesday</a>
+  <a class="button {% if page.subtitle == "Thursday" %}is-info is-selected" href="schedule.html"{% else %}" href="thursday.html"{% endif %}>Thursday</a>
+  <a class="button {% if page.subtitle == "Friday" %}is-info is-selected" href="schedule.html"{% else %}" href="friday.html"{% endif %}>Friday</a>
+</div>
+
+<style>
+h6 code {
+  background-color: inherit;
+  color: hsl(0, 0%, 48%);
+  font-size: inherit;
+  font-weight: inherit;
+  font-family: inherit;
+  font-variant: tabular-nums;
+  font-variant-numeric: tabular-nums;
+  display: inline-block;
+  padding: inherit;
+  padding-right: 1em;
+}
+
+.button a {
+  color: inherit;
+}
+</style>
