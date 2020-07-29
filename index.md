@@ -289,3 +289,122 @@ table.glance thead tr {
 </table>
 
 See the [full daily schedule](schedule.html) for more details.
+
+
+## Head Start Team
+
+<div class="columns is-multiline">
+  <div class="column is-half">
+    <article class="media"> <!--style="display: flex; align-items: center;"-->
+      <div class="media-left">
+        <p class="image is-128x128">
+          <img class="is-rounded" src="https://scholars.cs.usfca.edu/images/engle.png" alt="Professor Sophie Engle">
+        </p>
+      </div>
+      <div class="media-content">
+        <div class="content">
+          <p class="title is-5">Sophie Engle</p>
+          <p class="subtitle is-6">Associate Professor &bull; <a href="https://sjengle.cs.usfca.edu">sjengle.cs.usfca.edu</a></p>
+          <p>
+            Professor Engle will be leading the CS-related content.
+          </p>
+        </div>
+      </div>
+    </article>
+  </div>
+
+  <div class="column is-half">
+    <article class="media">
+      <div class="media-left">
+        <p class="image is-128x128">
+          <img class="is-rounded" src="https://scholars.cs.usfca.edu/images/rollins.jpg" alt="Professor Sami Rollins">
+        </p>
+      </div>
+      <div class="media-content">
+        <div class="content">
+          <p class="title is-5">Sami Rollins</p>
+          <p class="subtitle is-6">Professor &bull; <a href="https://srollins.cs.usfca.edu/">srollins.cs.usfca.edu/</a></p>
+          <p>
+            Professor Rollins will be leading the programming-related content.
+          </p>
+        </div>
+      </div>
+    </article>
+  </div>
+
+  <div class="column is-half">
+    <article class="media">
+      <div class="media-left">
+        <p class="image is-128x128">
+          <img class="is-rounded" src="https://scholars.cs.usfca.edu/images/joshi.jpg" alt="Professor Alark Joshi">
+        </p>
+      </div>
+      <div class="media-content">
+        <div class="content">
+          <p class="title is-5">Alark Joshi</p>
+          <p class="subtitle is-6">Associate Professor &bull; <a href="https://www.cs.usfca.edu/~apjoshi/">www.cs.usfca.edu/~apjoshi</a></p>
+          <p>
+            Professor Joshi will be helping with the programming-related content and various other activities.
+          </p>
+        </div>
+      </div>
+    </article>
+  </div>
+
+  <div class="column is-half">
+    <article class="media">
+      <div class="media-left">
+        <p class="image is-128x128">
+          <img class="is-rounded" src="https://scholars.cs.usfca.edu/images/bruno.png" alt="Gian Bruno">
+        </p>
+      </div>
+      <div class="media-content">
+        <div class="content">
+          <p class="title is-5">Gian Bruno</p>
+          <p class="subtitle is-6">Program Manager</p>
+          <p>
+            Gian will be helping with the non-academic workshops and with logistics throughout the week.
+          </p>
+        </div>
+      </div>
+    </article>
+  </div>
+
+  <div class="column is-half">
+    <article class="media">
+      <div class="media-left">
+        <p class="image is-128x128">
+          <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png" alt="Sofia	Esparza-Chavez">
+        </p>
+      </div>
+      <div class="media-content">
+        <div class="content">
+          <p class="title is-5">Sofia	Esparza-Chavez</p>
+          <p class="subtitle is-6">Student Ambassador</p>
+          <p>
+            Sofia will be helping with socials, providing technical assistance during CS and programming sessions, and the student Q&amp;A panel.
+          </p>
+        </div>
+      </div>
+    </article>
+  </div>
+
+    <div class="column is-half">
+      <article class="media">
+        <div class="media-left">
+          <p class="image is-128x128">
+            <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png" alt="Liwam	Tesfazion">
+          </p>
+        </div>
+        <div class="media-content">
+          <div class="content">
+            <p class="title is-5">Liwam	Tesfazion</p>
+            <p class="subtitle is-6">Student Ambassador</p>
+            <p>
+              Sofia will be helping with socials, providing technical assistance during CS and programming sessions, and the student Q&amp;A panel.
+            </p>
+          </div>
+        </div>
+      </article>
+    </div>
+</div>
