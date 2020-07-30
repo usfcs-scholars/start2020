@@ -83,7 +83,7 @@ table.glance thead tr {
 
     <tr>
       <td nowrap class="has-text-right is-size-7 has-text-grey">10:30a</td>
-      <td rowspan="3" style="background-color: #CFE2F3;">Introductions</td>
+      <td rowspan="2" style="background-color: #CFE2F3;">Introductions</td>
       <td rowspan="3" style="background-color: #D9EAD3;">CS History, Careers</td>
       <td rowspan="3" style="background-color: #CFE2F3;">Student Q&amp;A Panel</td>
       <td rowspan="3" style="background-color: #D9EAD3;">Advising</td>
@@ -95,11 +95,12 @@ table.glance thead tr {
 
     <tr>
       <td nowrap class="has-text-right is-size-7 has-text-grey">11:00a</td>
+      <td class="has-background-white-ter is-size-7 has-text-grey"><em>15m Break</em></td>  
     </tr>
 
     <tr>
       <td nowrap class="has-text-right is-size-7 has-text-grey">11:15a</td>
-      <td class="has-background-white-ter is-size-7 has-text-grey"><em>15m Break</em></td>
+      <td rowspan="3" style="background-color: #FFF2CC;">Health Promotion Services</td>    
       <td class="has-background-white-ter is-size-7 has-text-grey"><em>15m Break</em></td>
       <td class="has-background-white-ter is-size-7 has-text-grey"><em>15m Break</em></td>
       <td class="has-background-white-ter is-size-7 has-text-grey"><em>15m Break</em></td>
@@ -107,8 +108,7 @@ table.glance thead tr {
 
     <tr>
       <td nowrap class="has-text-right is-size-7 has-text-grey">11:30a</td>
-      <td rowspan="3" style="background-color: #FFF2CC;">Health Promotion Services</td>
-      <td rowspan="3" style="background-color: #FFF2CC;">Learning Center</td>
+      <td rowspan="2" style="background-color: #FFF2CC;">Learning Center</td>
       <td rowspan="3" style="background-color: #FFF2CC;">Career Services</td>
       <td rowspan="3" style="background-color: #FFF2CC;">CASA Overview</td>
     </tr>
@@ -119,12 +119,12 @@ table.glance thead tr {
 
     <tr>
       <td nowrap class="has-text-right is-size-7 has-text-grey">12:00p</td>
+      <td rowspan="4" class="has-background-white-ter is-size-7 has-text-grey"><em>60m Lunch Break</em></td>      
+      <td rowspan="4" class="has-background-white-ter is-size-7 has-text-grey"><em>60m Lunch Break</em></td>      
     </tr>
 
     <tr>
       <td nowrap class="has-text-right is-size-7 has-text-grey">12:15p</td>
-      <td rowspan="3" class="has-background-white-ter is-size-7 has-text-grey"><em>45m Lunch Break</em></td>
-      <td rowspan="3" class="has-background-white-ter is-size-7 has-text-grey"><em>45m Lunch Break</em></td>
       <td rowspan="3" class="has-background-white-ter is-size-7 has-text-grey"><em>45m Lunch Break</em></td>
       <td rowspan="3" class="has-background-white-ter is-size-7 has-text-grey"><em>45m Lunch Break</em></td>
     </tr>
@@ -374,7 +374,7 @@ See the [full daily schedule](schedule.html) for more details.
     <article class="media">
       <div class="media-left">
         <p class="image is-128x128">
-          <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png" alt="Sofia	Esparza-Chavez">
+          <img class="is-rounded" src="images/esparza-chavez.jpeg" alt="Sofia	Esparza-Chavez">
         </p>
       </div>
       <div class="media-content">
