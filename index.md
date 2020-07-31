@@ -168,7 +168,7 @@ table.glance thead tr {
     <tr>
       <td nowrap class="has-text-right is-size-7 has-text-grey"> 2:15p</td>
       <td rowspan="3" style="background-color: #D9EAD3;">Command Line, Part 2</td>
-      <td rowspan="3" style="background-color: #D9EAD3;">Pending</td>
+      <td rowspan="3" style="background-color: #D9EAD3;">CS Unplugged</td>
       <td rowspan="4" style="background-color: #D9D2E9;">Programming</td>
       <td rowspan="6" style="background-color: #D9D2E9;">Programming</td>
     </tr>
