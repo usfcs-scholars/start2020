@@ -363,7 +363,7 @@ See the [full daily schedule](schedule.html) for more details.
           <p class="title is-5">Gian Bruno</p>
           <p class="subtitle is-6">Program Manager</p>
           <p>
-            Gian will be helping with the non-academic workshops and with logistics throughout the week.
+            Gian will be helping with the academic workshops and with logistics throughout the week.
           </p>
         </div>
       </div>
