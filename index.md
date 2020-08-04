@@ -393,7 +393,7 @@ See the [full daily schedule](schedule.html) for more details.
       <article class="media">
         <div class="media-left">
           <p class="image is-128x128">
-            <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png" alt="Liwam	Tesfazion">
+            <img class="is-rounded" src="images/tesfazion.jpg" alt="Liwam	Tesfazion">
           </p>
         </div>
         <div class="media-content">
