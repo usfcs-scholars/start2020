@@ -22,13 +22,23 @@ The Zoom livestream will be left on in case you want to enjoy lunch with the oth
 
 ###### `01:00 – 02:00pm` Programming
 
-Pending
+Here are the lessons for the programming sessions:
+
+  - [Lessons](https://drive.google.com/drive/folders/17U0L4-ybh4zJsLagoGqr-hbflH70G2ZA?usp=sharing)
+  - [Starter Code](https://drive.google.com/drive/folders/1c4DO2VI_PtgryOSzCk8Ikw9ima2JXQrR?usp=sharing)
+
+Additional instructions will be given during each programming session.
 
 ###### `02:00 – 02:15pm` *15m Break* <a href="https://asoftmurmur.com/"><i class="far fa-play-circle"></i></a>
 
 ###### `02:15 – 03:45pm` Programming
 
-Pending
+Here are the lessons for the programming sessions:
+
+  - [Lessons](https://drive.google.com/drive/folders/17U0L4-ybh4zJsLagoGqr-hbflH70G2ZA?usp=sharing)
+  - [Starter Code](https://drive.google.com/drive/folders/1c4DO2VI_PtgryOSzCk8Ikw9ima2JXQrR?usp=sharing)
+
+Additional instructions will be given during each programming session.
 
 ###### `03:45 – 04:00pm` *15m Break* <a href="https://asoftmurmur.com/"><i class="far fa-play-circle"></i></a>
 

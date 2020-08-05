@@ -42,15 +42,23 @@ Pending
 
 ###### `02:15 – 03:15pm` Programming
 
-Pending
+Here are the lessons for the programming sessions:
+
+  - [Lessons](https://drive.google.com/drive/folders/17U0L4-ybh4zJsLagoGqr-hbflH70G2ZA?usp=sharing)
+  - [Starter Code](https://drive.google.com/drive/folders/1c4DO2VI_PtgryOSzCk8Ikw9ima2JXQrR?usp=sharing)
+
+Additional instructions will be given during each programming session.
 
 ###### `03:15 – 03:30pm`  *15m Break* <a href="https://asoftmurmur.com/"><i class="far fa-play-circle"></i></a>
 
-Pending
-
 ###### `03:30 – 05:00pm` Programming
 
-Pending
+Here are the lessons for the programming sessions:
+
+  - [Lessons](https://drive.google.com/drive/folders/17U0L4-ybh4zJsLagoGqr-hbflH70G2ZA?usp=sharing)
+  - [Starter Code](https://drive.google.com/drive/folders/1c4DO2VI_PtgryOSzCk8Ikw9ima2JXQrR?usp=sharing)
+
+Additional instructions will be given during each programming session.
 
 ###### `05:00 – 07:00pm` *2h Dinner Break*
 
