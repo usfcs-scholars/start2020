@@ -22,13 +22,22 @@ The Zoom livestream will be left on in case you want to enjoy lunch with the oth
 
 ###### `01:00 – 02:00pm` Command Line, Part 1
 
-Pending
+We will introduce the **command-line interface** which is used frequently by programmers.
+
+  - [Lesson: Command-Line Interface](https://docs.google.com/document/d/1z7gL_UBioAUNAlUtBkRFjPo1TGEZMk3P8vGZcuXTx1U/edit?usp=sharing)
+  - [Command-Line Bootcamp](https://cli-boot.camp/)
+
+P.S. Sites like [hackertyper.com](http://www.hackertyper.com/) and [geektyper.com](https://geektyper.com/fsociety/) can sometimes be fun, but it can sometimes make it feel daunting to start using the CLI. Hopefully you'll see it isn't so intimidating :)
 
 ###### `02:00 – 02:15pm` *15m Break* <a href="https://asoftmurmur.com/"><i class="far fa-play-circle"></i></a>
 
 ###### `02:15 – 03:00pm` Command Line, Part 2
 
-Pending
+In this part, we will use what we have learned to log into the CLI of one of our CS lab computers and solve a command-line murder mystery.
+
+- [Lesson: Connecting to CS Labs](https://docs.google.com/document/d/1_vJTgjsBtw4iIWOTu4yBRv04yvwuknPwh_p09jjXTww/edit?usp=sharing)
+- [Lesson: Command-Line Mystery](https://docs.google.com/document/d/1DN2alt6DEmkbSR-pMjWvVJC9TsACv4hO9-w5SBw4Ias/edit?usp=sharing)
+- [Command-Line Mystery](https://github.com/veltman/clmystery)
 
 ###### `03:00 – 03:30pm` *30m Social Break*
 
