@@ -36,6 +36,8 @@ Pending
 
 Time for a social break! We will break into small groups and participate in a social activity.
 
+  - [Social Break Slides](https://docs.google.com/presentation/d/e/2PACX-1vRJX_COUZRoRXf641Yg6LeCrN6OKlzIlsZxkbEhSvE19PGP2HugZ4BCjKRChgRNnkkOPPJ7dayTShyD/pub?start=false&loop=false&delayms=3000)
+
 ###### `03:30 – 05:00pm` Programming
 
 Here are the lessons for the programming sessions:

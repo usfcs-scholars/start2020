@@ -34,23 +34,7 @@ Pending
 
 Time for a social break! We will break into small groups and participate in a social activity.
 
-{% comment %}
-Here are the instructions for the "Recent/Favorite Thing" exercise:
-
-  1. Re-introduce yourself to everyone in the breakout room. Include your name and hometown.
-
-  1. Choose an activity. This can be either watching TV shows, watching movies, listening to music, playing video games or board games, or another activity.
-
-  1. Share with the group the most recent of that activity you participated in, then share your favorite of that activity. For example:
-
-      > I choose watching movies. The last movie I watched was Old Guard on Netflix. My favorite movie to watch is currently Arrival.
-
-  1. If anyone else mentions one of your last or favorite activity before you do, you need to choose a new activity!
-
-      > I was also going to say the last movie I watched was Old Guard! I will choose playing video games instead. The last video game I played was Last of Us 2. My favorite video game is Portal (1 and 2).
-
-When everyone has participated, feel free to get up, stretch, and take a short break. Or, continue to socialize in the breakout room or return to the main room.
-{% endcomment %}
+  - [Social Break Slides](https://docs.google.com/presentation/d/e/2PACX-1vRJX_COUZRoRXf641Yg6LeCrN6OKlzIlsZxkbEhSvE19PGP2HugZ4BCjKRChgRNnkkOPPJ7dayTShyD/pub?start=false&loop=false&delayms=3000)
 
 ###### `03:30 – 05:00pm` Programming
 
