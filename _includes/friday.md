@@ -14,7 +14,7 @@ Pending
 
 We will have a presentation from [Sara Solloway](https://myusf.usfca.edu/casa/profiles/solloway), Assistant Dean of Students and Academic Success Coach with the [Center for Academic and Student Achievement (CASA)](https://myusf.usfca.edu/casa). The CASA office is your home for compassionate academic and personal support that promotes holistic student development.
 
-###### `12:15 – 01:00pm` *45m Lunch Break*
+###### `12:15 – 01:00pm` *45m Lunch Break* <a href="https://docs.google.com/presentation/d/e/2PACX-1vSD5PleedFuY_gqV7gsHSkLwhNm8LPzND-MmR74wgh08Algi5FziP_KbeNHeIH9O50VtGLMX5qdPkrX/pub?start=false&loop=false&delayms=3000"><i class="far fa-external-link-alt"></i></a>
 
 **Please note this is a 45 minute lunch break.**
 

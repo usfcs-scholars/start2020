@@ -13,7 +13,7 @@ This is your chance to ask current students questions. We will be joined by Sofi
 We will have a presentation from [Ellen Kelly](https://myusf.usfca.edu/career-services/meet-staff), Director of Career Success with the [Priscilla A. Scotlan Career Services Center](https://myusf.usfca.edu/career-services). Whether you are a first year figuring out your career path or looking for your first full-time
 opportunity, the Career Services Center is here to ensure your success every step of the way.
 
-###### `12:15 – 01:00pm` *45m Lunch Break*
+###### `12:15 – 01:00pm` *45m Lunch Break* <a href="https://docs.google.com/presentation/d/e/2PACX-1vSD5PleedFuY_gqV7gsHSkLwhNm8LPzND-MmR74wgh08Algi5FziP_KbeNHeIH9O50VtGLMX5qdPkrX/pub?start=false&loop=false&delayms=3000"><i class="far fa-external-link-alt"></i></a>
 
 **Please note this is a 45 minute lunch break.**
 
