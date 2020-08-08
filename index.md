@@ -140,7 +140,7 @@ table.glance thead tr {
     <tr>
       <td nowrap class="has-text-right is-size-7 has-text-grey"> 1:00p</td>
       <td rowspan="4" style="background-color: #D9EAD3;">Command Line, Part 1</td>
-      <td rowspan="4" style="background-color: #D9EAD3;">Pending</td>
+      <td rowspan="4" style="background-color: #D9EAD3;">Computer Hardware</td>
       <td rowspan="4" style="background-color: #D9EAD3;">Faculty Scavenger Hunt</td>
       <td rowspan="4" style="background-color: #D9D2E9;">Programming<br/>(<a href="https://drive.google.com/drive/folders/17U0L4-ybh4zJsLagoGqr-hbflH70G2ZA?usp=sharing">Lessons</a>)</td>
     </tr>

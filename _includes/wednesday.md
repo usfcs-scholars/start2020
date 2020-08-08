@@ -18,9 +18,11 @@ We will have a presentation from Rachel Brunson, Assistant Director of the [Lear
 
 The Zoom livestream will be left on in case you want to enjoy lunch with the other program participants.
 
-###### `01:00 – 02:00pm` Pending
+###### `01:00 – 02:00pm` Computer Hardware
 
-Pending
+We will watch [Henry Cavil put together a gaming PC](https://www.instagram.com/tv/CCs-N1Eh2Z5/) as a quick introduction, and then dive into taking apart a computer live, discussing the components, putting it back together again, and making sure it still runs.
+
+[Computer Hardware (Wikipedia)](https://en.wikipedia.org/wiki/Computer_hardware)
 
 ###### `02:00 – 02:15pm` *15m Break* <a href="https://asoftmurmur.com/"><i class="far fa-play-circle"></i></a>
 
