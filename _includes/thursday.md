@@ -33,7 +33,7 @@ This is your chance to get to know other CS Faculty via a virtual scavenger hunt
 
 You will have another chance to meet more CS Faculty in orientation.
 
-[<i class="fab fa-google-drive"></i>&nbsp;Open Worksheet](#)
+[<i class="fab fa-google-drive"></i>&nbsp;Open Worksheet](https://docs.google.com/document/d/1R3iG4oBDxKK9r1Ytbw4zPodfKyZDBSlHGYDEiDMcKZY/edit?usp=sharing)
 {: .button .is-primary }
 
 ###### `02:00 – 02:15pm` *15m Break* <a href="https://asoftmurmur.com/"><i class="far fa-play-circle"></i></a>
