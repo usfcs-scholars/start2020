@@ -119,14 +119,14 @@ table.glance thead tr {
 
     <tr>
       <td nowrap class="has-text-right is-size-7 has-text-grey">12:00p</td>
-      <td rowspan="4" class="has-background-white-ter is-size-7 has-text-grey"><em>60m Lunch Break</em></td>      
-      <td rowspan="4" class="has-background-white-ter is-size-7 has-text-grey"><em>60m Lunch Break</em></td>      
+      <td rowspan="4" class="has-background-white-ter is-size-7 has-text-grey"><em>60m Lunch Break</em> <a href="https://docs.google.com/presentation/d/e/2PACX-1vSD5PleedFuY_gqV7gsHSkLwhNm8LPzND-MmR74wgh08Algi5FziP_KbeNHeIH9O50VtGLMX5qdPkrX/pub?start=false&loop=false&delayms=3000"><i class="far fa-external-link-alt"></i></a></td>      
+      <td rowspan="4" class="has-background-white-ter is-size-7 has-text-grey"><em>60m Lunch Break</em> <a href="https://docs.google.com/presentation/d/e/2PACX-1vSD5PleedFuY_gqV7gsHSkLwhNm8LPzND-MmR74wgh08Algi5FziP_KbeNHeIH9O50VtGLMX5qdPkrX/pub?start=false&loop=false&delayms=3000"><i class="far fa-external-link-alt"></i></a></td>      
     </tr>
 
     <tr>
       <td nowrap class="has-text-right is-size-7 has-text-grey">12:15p</td>
-      <td rowspan="3" class="has-background-white-ter is-size-7 has-text-grey"><em>45m Lunch Break</em></td>
-      <td rowspan="3" class="has-background-white-ter is-size-7 has-text-grey"><em>45m Lunch Break</em></td>
+      <td rowspan="3" class="has-background-white-ter is-size-7 has-text-grey"><em>45m Lunch Break</em> <a href="https://docs.google.com/presentation/d/e/2PACX-1vSD5PleedFuY_gqV7gsHSkLwhNm8LPzND-MmR74wgh08Algi5FziP_KbeNHeIH9O50VtGLMX5qdPkrX/pub?start=false&loop=false&delayms=3000"><i class="far fa-external-link-alt"></i></a></td>
+      <td rowspan="3" class="has-background-white-ter is-size-7 has-text-grey"><em>45m Lunch Break</em> <a href="https://docs.google.com/presentation/d/e/2PACX-1vSD5PleedFuY_gqV7gsHSkLwhNm8LPzND-MmR74wgh08Algi5FziP_KbeNHeIH9O50VtGLMX5qdPkrX/pub?start=false&loop=false&delayms=3000"><i class="far fa-external-link-alt"></i></a></td>
     </tr>
 
     <tr>
