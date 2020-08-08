@@ -1,10 +1,14 @@
 ###### `10:00 – 10:30am` Welcome
 
-Pending
+We will introduce the CS Head Start program and welcome everyone to the University of San Francisco.
+
+  - [Welcome Slides](https://docs.google.com/presentation/d/e/2PACX-1vTXG3jUuVoeDzQgurwZRVt9it986uQLboiW9JwoKRzGBH-njLOiNPWVNr0xIKtGenB1w5OsL-dfmtjh/pub?start=false&loop=false&delayms=3000)
 
 ###### `10:30 – 11:00am` Introductions
 
-Pending
+We will give everyone an opportunity to introduce themselves.
+
+  - [Introduction Slides](https://docs.google.com/presentation/d/e/2PACX-1vRroIgXmAUKNjpUkGljc4PhGVoisQVDCfk_XtljkJ4AxBlKHH7zEW-ZiXWNnzWTtvthnyzOZk-5IlfD/pub?start=false&loop=false&delayms=3000)
 
 ###### `11:00 – 11:15am` *15m Break* <a href="https://asoftmurmur.com/"><i class="far fa-play-circle"></i></a>
 
@@ -12,7 +16,7 @@ Pending
 
 We will have a presentation from Natalie Macias, Associate Director of [Health Promotion Services (HPS)](https://myusf.usfca.edu/hps). The HPS office offers health services and opportunities that promote wellness, stimulate better health awareness, and foster a vibrant and safe campus community for student academic success and retention.  
 
-###### `12:00 – 01:00pm` *60m Lunch Break*
+###### `12:00 – 01:00pm` *60m Lunch Break* <a href="https://docs.google.com/presentation/d/e/2PACX-1vSD5PleedFuY_gqV7gsHSkLwhNm8LPzND-MmR74wgh08Algi5FziP_KbeNHeIH9O50VtGLMX5qdPkrX/pub?start=false&loop=false&delayms=3000"><i class="far fa-external-link-alt"></i></a>
 
 The Zoom livestream will be left on in case you want to enjoy lunch with the other program participants.
 

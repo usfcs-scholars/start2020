@@ -71,7 +71,7 @@ table.glance thead tr {
   <tbody>
     <tr>
       <td nowrap class="has-text-right is-size-7 has-text-grey">10:00a</td>
-      <td rowspan="2" style="background-color: #D9EAD3;">Welcome</td>
+      <td rowspan="2" style="background-color: #D9EAD3;">Welcome <a href="https://docs.google.com/presentation/d/e/2PACX-1vTXG3jUuVoeDzQgurwZRVt9it986uQLboiW9JwoKRzGBH-njLOiNPWVNr0xIKtGenB1w5OsL-dfmtjh/pub?start=false&loop=false&delayms=3000"><i class="far fa-external-link-alt"></i></a></td>
       <td rowspan="2" style="background-color: #CFE2F3;">Warmup</td>
       <td rowspan="2" style="background-color: #CFE2F3;">Warmup</td>
       <td rowspan="2" style="background-color: #CFE2F3;">Warmup</td>
@@ -83,7 +83,7 @@ table.glance thead tr {
 
     <tr>
       <td nowrap class="has-text-right is-size-7 has-text-grey">10:30a</td>
-      <td rowspan="2" style="background-color: #CFE2F3;">Introductions</td>
+      <td rowspan="2" style="background-color: #CFE2F3;">Introductions <a href="https://docs.google.com/presentation/d/e/2PACX-1vRroIgXmAUKNjpUkGljc4PhGVoisQVDCfk_XtljkJ4AxBlKHH7zEW-ZiXWNnzWTtvthnyzOZk-5IlfD/pub?start=false&loop=false&delayms=3000"><i class="far fa-external-link-alt"></i></a></td>
       <td rowspan="3" style="background-color: #D9EAD3;">CS History, Careers</td>
       <td rowspan="3" style="background-color: #CFE2F3;">Student Q&amp;A Panel</td>
       <td rowspan="3" style="background-color: #D9EAD3;">Advising</td>
