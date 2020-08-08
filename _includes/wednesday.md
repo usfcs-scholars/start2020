@@ -22,11 +22,10 @@ The Zoom livestream will be left on in case you want to enjoy lunch with the oth
 
 We will watch [Henry Cavil put together a gaming PC](https://www.instagram.com/tv/CCs-N1Eh2Z5/) as a quick introduction, and then dive into taking apart a computer live, discussing the components, putting it back together again, and making sure it still runs.
 
-[Computer Hardware (Wikipedia)](https://en.wikipedia.org/wiki/Computer_hardware)
+  - ["All the Parts" by Henry Cavil, July 16, 2020](https://www.instagram.com/tv/CCs-N1Eh2Z5/)
+  - [Computer Hardware (Wikipedia)](https://en.wikipedia.org/wiki/Computer_hardware)
 
 ###### `02:00 – 02:15pm` *15m Break* <a href="https://asoftmurmur.com/"><i class="far fa-play-circle"></i></a>
-
-Pending
 
 ###### `02:15 – 03:00pm` CS Unplugged
 
