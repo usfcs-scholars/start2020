@@ -1,14 +1,21 @@
 ###### `10:00 – 10:30am` Warmup
 
-Pending
+We will introduce the activities for the day and do a warmup exercise.
+
+  - [Warmup Slides](https://docs.google.com/presentation/d/e/2PACX-1vSpErD7I_7qvuD56fd-JEByn1Ro-wmHEJJipIDdCH65BuH5VcC_7ET6xuCwMREgfuGNKTz-AXJ9N1Oy/pub?start=false&loop=false&delayms=3000)
 
 ###### `10:30 – 11:15am` CS History and Careers
 
-Pending
+We will go through a brief background on CS and possible career paths within this discipline.
 
-###### `11:15 – 11:30am` *15m Break* <a href="https://asoftmurmur.com/"><i class="far fa-play-circle"></i></a>
+  - [CS History and Careers Slides](https://docs.google.com/presentation/d/e/2PACX-1vSkj9ggbE7L4cR_TIGQD5HCD1FYer0LM-Ph8SRZnDjJBWjl4RCEOOrb-0ppYT3Hch7II_WC--dURlmD/pub?start=false&loop=false&delayms=3000)
 
-Pending
+  - [Computer and Information Technology Occupations](https://www.bls.gov/ooh/computer-and-information-technology/home.htm)
+  - [Career OneStop](https://www.careeronestop.org/)
+
+###### `11:15 – 11:30am` *15m Break*
+
+[Break Topic: Best Pun](https://PollEv.com/discourses/9NzBEaseHHAfLIu1arHuW/respond)
 
 ###### `11:30 – 12:00pm` Learning Center
 
@@ -25,11 +32,18 @@ We will watch [Henry Cavil put together a gaming PC](https://www.instagram.com/t
   - ["All the Parts" by Henry Cavil, July 16, 2020](https://www.instagram.com/tv/CCs-N1Eh2Z5/)
   - [Computer Hardware (Wikipedia)](https://en.wikipedia.org/wiki/Computer_hardware)
 
-###### `02:00 – 02:15pm` *15m Break* <a href="https://asoftmurmur.com/"><i class="far fa-play-circle"></i></a>
+###### `02:00 – 02:15pm` *15m Break*
+
+[A Soft Murmur <i class="far fa-play-circle"></i>](https://asoftmurmur.com/)
 
 ###### `02:15 – 03:00pm` CS Unplugged
 
-Pending
+We will do a modified version of Parity Magic exercise from the CS Unplugged website in class.
+
+  - [Parity Magic (Worksheet)](https://docs.google.com/spreadsheets/d/1YcFSe7rcQ0BeFW9tzh-_L29MuEpfuxRUC-cmbgFb4RY/edit?usp=sharing)
+  - [Parity Magic (Interactive)](https://csfieldguide.org.nz/en/interactives/parity/)
+  - [Parity Magic (Lesson)](https://www.csunplugged.org/en/topics/error-detection-and-correction/unit-plan/parity-magic/)
+  - [CS Unplugged](https://www.csunplugged.org/en/)
 
 ###### `03:00 – 03:30pm` *30m Social Break*
 
