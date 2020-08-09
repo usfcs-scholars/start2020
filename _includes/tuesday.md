@@ -26,6 +26,7 @@ We will introduce the **command-line interface** which is used frequently by pro
 
   - [Lesson: Command-Line Interface](https://docs.google.com/document/d/1z7gL_UBioAUNAlUtBkRFjPo1TGEZMk3P8vGZcuXTx1U/edit?usp=sharing)
   - [Command-Line Bootcamp](https://cli-boot.camp/)
+  - [Explain Shell](https://explainshell.com/)
 
 P.S. Sites like [hackertyper.com](http://www.hackertyper.com/) and [geektyper.com](https://geektyper.com/fsociety/) can sometimes be fun, but it can sometimes make it feel daunting to start using the CLI. Hopefully you'll see it isn't so intimidating :)
 
