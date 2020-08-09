@@ -10,7 +10,7 @@ We will give everyone an opportunity to introduce themselves.
 
   - [Introduction Slides](https://docs.google.com/presentation/d/e/2PACX-1vRroIgXmAUKNjpUkGljc4PhGVoisQVDCfk_XtljkJ4AxBlKHH7zEW-ZiXWNnzWTtvthnyzOZk-5IlfD/pub?start=false&loop=false&delayms=3000)
 
-###### `11:00 – 11:15am` *15m Break* <a href="https://asoftmurmur.com/"><i class="far fa-play-circle"></i></a>
+###### `11:00 – 11:15am` *15m Break*
 
 ###### `11:15 – 12:00pm` Health Promotion Services
 
@@ -29,7 +29,9 @@ We will introduce the **command-line interface** which is used frequently by pro
 
 P.S. Sites like [hackertyper.com](http://www.hackertyper.com/) and [geektyper.com](https://geektyper.com/fsociety/) can sometimes be fun, but it can sometimes make it feel daunting to start using the CLI. Hopefully you'll see it isn't so intimidating :)
 
-###### `02:00 – 02:15pm` *15m Break* <a href="https://asoftmurmur.com/"><i class="far fa-play-circle"></i></a>
+###### `02:00 – 02:15pm` *15m Break*
+
+[A Soft Murmur <i class="far fa-play-circle"></i>](https://asoftmurmur.com/)
 
 ###### `02:15 – 03:00pm` Command Line, Part 2
 
