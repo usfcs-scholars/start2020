@@ -10,7 +10,9 @@ This is your chance to ask current students questions. We will be joined by Sofi
 
 ###### `11:15 – 11:30am` *15m Break*
 
-[A Soft Murmur <i class="far fa-play-circle"></i>](https://asoftmurmur.com/)
+The ambient sound for this break is provided by:
+
+  - [A Soft Murmur <i class="far fa-play-circle"></i>](https://asoftmurmur.com/?m=wnd10fre32)
 
 ###### `11:30 – 12:15pm` Career Services Center
 
@@ -42,7 +44,9 @@ You will have another chance to meet more CS Faculty in orientation.
 
 ###### `02:00 – 02:15pm` *15m Break*
 
-[Good Habit/Bad Habit](https://PollEv.com/free_text_polls/v4mx1qcj3Rx39r1dQYWGd/respond)
+During this break, you may *optionally* respond to the following poll:
+
+  - [Good Habit/Bad Habit](https://PollEv.com/free_text_polls/v4mx1qcj3Rx39r1dQYWGd/respond)
 
 ###### `02:15 – 03:15pm` Programming
 
@@ -54,8 +58,6 @@ Here are the lessons for the programming sessions:
 Additional instructions will be given during each programming session.
 
 ###### `03:15 – 03:30pm`  *15m Break*
-
-[A Soft Murmur <i class="far fa-play-circle"></i>](https://asoftmurmur.com/)
 
 ###### `03:30 – 05:00pm` Programming
 

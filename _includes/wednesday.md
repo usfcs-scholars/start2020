@@ -15,7 +15,9 @@ We will go through a brief background on CS and possible career paths within thi
 
 ###### `11:15 – 11:30am` *15m Break*
 
-[Break Topic: Best Pun](https://PollEv.com/discourses/9NzBEaseHHAfLIu1arHuW/respond)
+During this break, you may *optionally* respond to the following poll:
+
+  - [Break Topic: Best Pun](https://PollEv.com/discourses/9NzBEaseHHAfLIu1arHuW/respond)
 
 ###### `11:30 – 12:00pm` Learning Center
 
@@ -34,7 +36,9 @@ We will watch [Henry Cavil put together a gaming PC](https://www.instagram.com/t
 
 ###### `02:00 – 02:15pm` *15m Break*
 
-[A Soft Murmur <i class="far fa-play-circle"></i>](https://asoftmurmur.com/)
+The ambient sound for this break is provided by:
+
+  - [A Soft Murmur <i class="far fa-play-circle"></i>](https://asoftmurmur.com/?m=wve52brd12)
 
 ###### `02:15 – 03:00pm` CS Unplugged
 
