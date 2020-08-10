@@ -60,4 +60,9 @@ The ambient sound for this break is provided by:
 
 ###### `04:00 – 05:00pm` Closing and Reflection
 
-Pending
+We will reflect on the week, discuss any on-campus student services we missed throughout the week (e.g. CAPS, SDS, Food Pantry), and finally discuss what's next.
+
+  - [Closing Slides](https://docs.google.com/presentation/d/e/2PACX-1vRunMUySD121kTL-9b238FsaBUV92LKD97xBHPH8-QDOYEN-DWxwJuyaa81bkwgNvOElSdymdp016SC/pub?start=false&loop=false&delayms=3000)
+  - [USFCS Slack](https://usfcs.slack.com/)
+
+**Please complete the evaluation surveys related to the CS Head Start 2020 program!**
