@@ -1,12 +1,16 @@
 ###### `10:00 – 10:30am` Warmup
 
-Pending
+We will introduce the activities for the day and do a warmup exercise.
+
+  - [Warmup Slides](https://docs.google.com/presentation/d/e/2PACX-1vR4WQ9HX89X8SKmFIOq6Xr84xv2ZADQECVjJyIfJRZY9TUWGnNKTqZCmiWPvQsIZuCY-3aLB5FNNnUt/pub?start=false&loop=false&delayms=3000)
 
 ###### `10:30 – 11:15am` Student Q&amp;A Panel
 
 This is your chance to ask current students questions. We will be joined by Sofia, Liwam, and Kenny. All three participated in the CS Head Start program last year, are in their second year at USF, and experienced the transition to remote learning last Spring.
 
-###### `11:15 – 11:30am` *15m Break* <a href="https://asoftmurmur.com/"><i class="far fa-play-circle"></i></a>
+###### `11:15 – 11:30am` *15m Break*
+
+[A Soft Murmur <i class="far fa-play-circle"></i>](https://asoftmurmur.com/)
 
 ###### `11:30 – 12:15pm` Career Services Center
 
@@ -36,9 +40,9 @@ You will have another chance to meet more CS Faculty in orientation.
 [<i class="fab fa-google-drive"></i>&nbsp;Open Worksheet](https://docs.google.com/document/d/1R3iG4oBDxKK9r1Ytbw4zPodfKyZDBSlHGYDEiDMcKZY/edit?usp=sharing)
 {: .button .is-primary }
 
-###### `02:00 – 02:15pm` *15m Break* <a href="https://asoftmurmur.com/"><i class="far fa-play-circle"></i></a>
+###### `02:00 – 02:15pm` *15m Break*
 
-Pending
+[Good Habit/Bad Habit](https://PollEv.com/free_text_polls/v4mx1qcj3Rx39r1dQYWGd/respond)
 
 ###### `02:15 – 03:15pm` Programming
 
@@ -49,7 +53,9 @@ Here are the lessons for the programming sessions:
 
 Additional instructions will be given during each programming session.
 
-###### `03:15 – 03:30pm`  *15m Break* <a href="https://asoftmurmur.com/"><i class="far fa-play-circle"></i></a>
+###### `03:15 – 03:30pm`  *15m Break*
+
+[A Soft Murmur <i class="far fa-play-circle"></i>](https://asoftmurmur.com/)
 
 ###### `03:30 – 05:00pm` Programming
 
