@@ -140,7 +140,7 @@ table.glance thead tr {
     <tr>
       <td nowrap class="has-text-right is-size-7 has-text-grey"> 1:00p</td>
       <td rowspan="4" style="background-color: #D9EAD3;">Command Line, Part 1<br/> (<a href="https://docs.google.com/document/d/1z7gL_UBioAUNAlUtBkRFjPo1TGEZMk3P8vGZcuXTx1U/edit?usp=sharing">Lessons</a>)</td>
-      <td rowspan="4" style="background-color: #D9EAD3;">Computer Hardware</td>
+      <td rowspan="2" style="background-color: #D9EAD3;">Computer Hardware</td>
       <td rowspan="4" style="background-color: #D9EAD3;">Faculty Scavenger Hunt</td>
       <td rowspan="4" style="background-color: #D9D2E9;">Programming<br/>(<a href="https://drive.google.com/drive/folders/17U0L4-ybh4zJsLagoGqr-hbflH70G2ZA?usp=sharing">Lessons</a>)</td>
     </tr>
@@ -151,6 +151,7 @@ table.glance thead tr {
 
     <tr>
       <td nowrap class="has-text-right is-size-7 has-text-grey"> 1:30p</td>
+      <td rowspan="2" style="background-color: #D9EAD3;">CS Unplugged</td>      
     </tr>
 
     <tr>
@@ -167,8 +168,8 @@ table.glance thead tr {
 
     <tr>
       <td nowrap class="has-text-right is-size-7 has-text-grey"> 2:15p</td>
-      <td rowspan="3" style="background-color: #D9EAD3;">Command Line, Part 2<br/>(<a href="https://docs.google.com/document/d/1DN2alt6DEmkbSR-pMjWvVJC9TsACv4hO9-w5SBw4Ias/edit?usp=sharing">Lessons</a>)</td>
-      <td rowspan="3" style="background-color: #D9EAD3;">CS Unplugged</td>
+      <td rowspan="3" style="background-color: #D9EAD3;">Command Line, Part 2<br/>(<a href="https://docs.google.com/document/d/1z7gL_UBioAUNAlUtBkRFjPo1TGEZMk3P8vGZcuXTx1U/edit?usp=sharing">Lessons</a>)</td>
+      <td rowspan="3" style="background-color: #D9EAD3;">Command Line Mystery<br/>(<a href="https://docs.google.com/document/d/1DN2alt6DEmkbSR-pMjWvVJC9TsACv4hO9-w5SBw4Ias/edit?usp=sharing">Lessons</a>)</td>
       <td rowspan="4" style="background-color: #D9D2E9;">Programming<br/>(<a href="https://drive.google.com/drive/folders/17U0L4-ybh4zJsLagoGqr-hbflH70G2ZA?usp=sharing">Lessons</a>)</td>
       <td rowspan="6" style="background-color: #D9D2E9;">Programming<br/>(<a href="https://drive.google.com/drive/folders/17U0L4-ybh4zJsLagoGqr-hbflH70G2ZA?usp=sharing">Lessons</a>)</td>
     </tr>
