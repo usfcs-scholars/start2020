@@ -38,11 +38,7 @@ The ambient sound for this break is provided by:
 
 ###### `02:15 – 03:00pm` Command Line, Part 2
 
-In this part, we will use what we have learned to log into the CLI of one of our CS lab computers and solve a command-line murder mystery.
-
-- [Lesson: Connecting to CS Labs](https://docs.google.com/document/d/1_vJTgjsBtw4iIWOTu4yBRv04yvwuknPwh_p09jjXTww/edit?usp=sharing)
-- [Lesson: Command-Line Mystery](https://docs.google.com/document/d/1DN2alt6DEmkbSR-pMjWvVJC9TsACv4hO9-w5SBw4Ias/edit?usp=sharing)
-- [Command-Line Mystery](https://github.com/veltman/clmystery)
+We will continue walking through the [Command-Line Interface](https://docs.google.com/document/d/1z7gL_UBioAUNAlUtBkRFjPo1TGEZMk3P8vGZcuXTx1U/edit?usp=sharing) lesson in this part.
 
 ###### `03:00 – 03:30pm` *30m Social Break*
 

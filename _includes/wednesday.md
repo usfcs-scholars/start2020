@@ -27,20 +27,14 @@ We will have a presentation from Rachel Brunson, Assistant Director of the [Lear
 
 The Zoom livestream will be left on in case you want to enjoy lunch with the other program participants.
 
-###### `01:00 – 02:00pm` Computer Hardware
+###### `01:00 – 01:30pm` Computer Hardware
 
 We will watch [Henry Cavil put together a gaming PC](https://www.instagram.com/tv/CCs-N1Eh2Z5/) as a quick introduction, and then dive into taking apart a computer live, discussing the components, putting it back together again, and making sure it still runs.
 
   - ["All the Parts" by Henry Cavil, July 16, 2020](https://www.instagram.com/tv/CCs-N1Eh2Z5/)
   - [Computer Hardware (Wikipedia)](https://en.wikipedia.org/wiki/Computer_hardware)
 
-###### `02:00 – 02:15pm` *15m Break*
-
-The ambient sound for this break is provided by:
-
-  - [A Soft Murmur <i class="far fa-play-circle"></i>](https://asoftmurmur.com/?m=wve52brd12)
-
-###### `02:15 – 03:00pm` CS Unplugged
+###### `01:30 – 02:00pm` CS Unplugged
 
 We will do a modified version of Parity Magic exercise from the CS Unplugged website in class.
 
@@ -48,6 +42,20 @@ We will do a modified version of Parity Magic exercise from the CS Unplugged web
   - [Parity Magic (Interactive)](https://csfieldguide.org.nz/en/interactives/parity/)
   - [Parity Magic (Lesson)](https://www.csunplugged.org/en/topics/error-detection-and-correction/unit-plan/parity-magic/)
   - [CS Unplugged](https://www.csunplugged.org/en/)
+
+###### `02:00 – 02:15pm` *15m Break*
+
+The ambient sound for this break is provided by:
+
+  - [A Soft Murmur <i class="far fa-play-circle"></i>](https://asoftmurmur.com/?m=wve52brd12)
+
+###### `02:15 – 03:00pm` Command Line Mystery
+
+In this part, we will use what we have learned to log into the CLI of one of our CS lab computers and solve a command-line murder mystery.
+
+  - [Lesson: Connecting to CS Labs](https://docs.google.com/document/d/1_vJTgjsBtw4iIWOTu4yBRv04yvwuknPwh_p09jjXTww/edit?usp=sharing)
+  - [Lesson: Command-Line Mystery](https://docs.google.com/document/d/1DN2alt6DEmkbSR-pMjWvVJC9TsACv4hO9-w5SBw4Ias/edit?usp=sharing)
+  - [Command-Line Mystery](https://github.com/veltman/clmystery)
 
 ###### `03:00 – 03:30pm` *30m Social Break*
 
