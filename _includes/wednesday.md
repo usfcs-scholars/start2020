@@ -24,6 +24,10 @@ During this break, you may *optionally* respond to the following poll:
 
 We will have a presentation from Rachel Brunson, Assistant Director of the [Learning Center](https://myusf.usfca.edu/learning-center) and Haley Riechman (Program Assistant). The Learning Center is USF's home for academic support services, which are free for all enrolled students.
 
+  - [The Learning, Writing, and Speaking Centers (LWSC)](https://myusf.usfca.edu/lwsc)
+  - [Study Skills Resources](https://myusf.usfca.edu/lwsc/studyskills)
+  - [The Study Cycle](https://drive.google.com/file/d/1Nnv3JKFvvcFhP5kWnFMtonOqQMtbmcpp/view?usp=sharing)
+
 ###### `12:00 – 01:00pm` *60m Lunch Break* <a href="https://docs.google.com/presentation/d/e/2PACX-1vSD5PleedFuY_gqV7gsHSkLwhNm8LPzND-MmR74wgh08Algi5FziP_KbeNHeIH9O50VtGLMX5qdPkrX/pub?start=false&loop=false&delayms=3000"><i class="far fa-external-link-alt"></i></a>
 
 The Zoom livestream will be left on in case you want to enjoy lunch with the other program participants.
