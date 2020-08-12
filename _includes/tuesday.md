@@ -16,6 +16,9 @@ We will give everyone an opportunity to introduce themselves.
 
 We will have a presentation from Natalie Macias, Associate Director of [Health Promotion Services (HPS)](https://myusf.usfca.edu/hps). The HPS office offers health services and opportunities that promote wellness, stimulate better health awareness, and foster a vibrant and safe campus community for student academic success and retention.  
 
+  - [Health Promotion Services (HPS)](https://myusf.usfca.edu/hps)
+  - [Stress Management Slides](https://drive.google.com/file/d/1_Y_pskRUD0nlr1lR8sozEKRYNXs03iwj/view?usp=sharing)
+
 ###### `12:00 – 01:00pm` *60m Lunch Break* <a href="https://docs.google.com/presentation/d/e/2PACX-1vSD5PleedFuY_gqV7gsHSkLwhNm8LPzND-MmR74wgh08Algi5FziP_KbeNHeIH9O50VtGLMX5qdPkrX/pub?start=false&loop=false&delayms=3000"><i class="far fa-external-link-alt"></i></a>
 
 The Zoom livestream will be left on in case you want to enjoy lunch with the other program participants.
