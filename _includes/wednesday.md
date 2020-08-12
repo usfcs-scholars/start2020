@@ -3,6 +3,7 @@
 We will introduce the activities for the day and do a warmup exercise.
 
   - [Warmup Slides](https://docs.google.com/presentation/d/e/2PACX-1vSpErD7I_7qvuD56fd-JEByn1Ro-wmHEJJipIDdCH65BuH5VcC_7ET6xuCwMREgfuGNKTz-AXJ9N1Oy/pub?start=false&loop=false&delayms=3000)
+  - [Break Playlist](https://docs.google.com/document/d/16R_N2wpdt9pFUdsFEKrqOfe8z5larDebdrMhOriOCjc/edit?usp=sharing)
 
 ###### `10:30 – 11:15am` CS History and Careers
 
