@@ -64,9 +64,9 @@ In this part, we will use what we have learned to log into the CLI of one of our
 
 ###### `03:00 – 03:30pm` *30m Social Break*
 
-Time for a social break! We will break into small groups and participate in a social activity.
+~~Time for a social break! We will break into small groups and participate in a social activity.~~
 
-  - [Social Break Slides](https://docs.google.com/presentation/d/e/2PACX-1vRJX_COUZRoRXf641Yg6LeCrN6OKlzIlsZxkbEhSvE19PGP2HugZ4BCjKRChgRNnkkOPPJ7dayTShyD/pub?start=false&loop=false&delayms=3000)
+  - ~~[Social Break Slides](https://docs.google.com/presentation/d/e/2PACX-1vRJX_COUZRoRXf641Yg6LeCrN6OKlzIlsZxkbEhSvE19PGP2HugZ4BCjKRChgRNnkkOPPJ7dayTShyD/pub?start=false&loop=false&delayms=3000)~~
 
 ###### `03:30 – 05:00pm` Programming
 
