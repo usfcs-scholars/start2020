@@ -402,7 +402,7 @@ See the [full daily schedule](schedule.html) for more details.
             <p class="title is-5">Liwam	Tesfazion</p>
             <p class="subtitle is-6">Student Ambassador</p>
             <p>
-              Sofia will be helping with socials, providing technical assistance during CS and programming sessions, and the student Q&amp;A panel.
+              Liwam will be helping with socials, providing technical assistance during CS and programming sessions, and the student Q&amp;A panel.
             </p>
           </div>
         </div>
