@@ -190,18 +190,18 @@ table.glance thead tr {
 
     <tr>
       <td nowrap class="has-text-right is-size-7 has-text-grey"> 3:15p</td>
-      <td class="has-background-white-ter is-size-7 has-text-grey"><em>15m Break</em></td>
+      <td style="background-color: #CFE2F3;" rowspan="2">Break and Guest Q&amp;A</td>
     </tr>
 
     <tr>
       <td nowrap class="has-text-right is-size-7 has-text-grey"> 3:30p</td>
       <td rowspan="6" style="background-color: #D9D2E9;">Programming<br/>(<a href="https://drive.google.com/drive/folders/17U0L4-ybh4zJsLagoGqr-hbflH70G2ZA?usp=sharing">Lessons</a>)</td>
       <td rowspan="6" style="background-color: #D9D2E9;">Programming<br/>(<a href="https://drive.google.com/drive/folders/17U0L4-ybh4zJsLagoGqr-hbflH70G2ZA?usp=sharing">Lessons</a>)</td>
-      <td rowspan="6" style="background-color: #D9D2E9;">Programming<br/>(<a href="https://drive.google.com/drive/folders/17U0L4-ybh4zJsLagoGqr-hbflH70G2ZA?usp=sharing">Lessons</a>)</td>
     </tr>
 
     <tr>
       <td nowrap class="has-text-right is-size-7 has-text-grey"> 3:45p</td>
+      <td rowspan="5" style="background-color: #D9D2E9;">Programming<br/>(<a href="https://drive.google.com/drive/folders/17U0L4-ybh4zJsLagoGqr-hbflH70G2ZA?usp=sharing">Lessons</a>)</td>      
       <td class="has-background-white-ter is-size-7 has-text-grey"><em>15m Break</em></td>
     </tr>
 
