@@ -57,9 +57,11 @@ Here are the lessons for the programming sessions:
 
 Additional instructions will be given during each programming session.
 
-###### `03:15 – 03:30pm`  *15m Break*
+###### `03:15 – 03:45pm`  Break and Guest Q&A
 
-###### `03:30 – 05:00pm` Programming
+We will take a brief break and have a special guest visit from Facebook us for a brief Q&A.
+
+###### `03:45 – 05:00pm` Programming
 
 Here are the lessons for the programming sessions:
 
