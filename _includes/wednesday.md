@@ -24,6 +24,7 @@ During this break, you may *optionally* respond to the following poll:
 
 We will have a presentation from Rachel Brunson, Assistant Director of the [Learning Center](https://myusf.usfca.edu/learning-center) and Haley Riechman (Program Assistant). The Learning Center is USF's home for academic support services, which are free for all enrolled students.
 
+  - [Overview of The Learning Center Slides](https://drive.google.com/file/d/1qOAE7Ym8olETEWwxnhG4Fm8pVmIWjCBv/view?usp=sharing)
   - [The Learning, Writing, and Speaking Centers (LWSC)](https://myusf.usfca.edu/lwsc)
   - [Study Skills Resources](https://myusf.usfca.edu/lwsc/studyskills)
   - [The Study Cycle](https://drive.google.com/file/d/1Nnv3JKFvvcFhP5kWnFMtonOqQMtbmcpp/view?usp=sharing)
